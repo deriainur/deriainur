@@ -1,0 +1,11 @@
+Algoritma latihan 1 Menampilkan N bilangan acak yang lebih kecil dari 0,5, nilai N diisi pada saat runtime.
+
+Mulai
+Memasukan/ import fungsi RANDOM terlebih dahulu.
+Deklarasi int, masukkan jumlah N :
+Memasukan deskripsi kombinasi for untuk menyelesaikannya.
+Mencetak data ke 1 sampai N dengan hasil nilai kurang dari 0,5.
+Selesai
+Rumus Program untuk Latihan 1
+
+Ketikkan rumusnya seperti dibawah in
